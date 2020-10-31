@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[OCTOCAT](random-octocat.herokuapp.com)
+<img src="https://random-octocat.herokuapp.com" alt="Octocat!" />
 
 <!--
 **Meeyzt/Meeyzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
