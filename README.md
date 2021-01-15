@@ -1,7 +1,12 @@
-### READ ME
+## Hello Welcome to the my Github page
+  My name is Mehmet Yılmaz. I Was born in Bursa, Turkey. 
+  Im student to Bursa Uludag University in Business Managment.   
+  I started coding at 13 years old. 
+  I now 21 years old.
+  
+  I learn .NET CORE with Kodluyoruz.
+  
+  ### THAT'S FİNE 
 
-```python
-MAKE A READ ME
-```
 
-<img src="https://random-octocat.herokuapp.com" alt="Octocat!" />
+<img style="height=20px; width=20px;" src="https://random-octocat.herokuapp.com" alt="Octocat!" />
