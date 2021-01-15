@@ -8,5 +8,6 @@
   
   ### THAT'S FİNE 
 
-
-<img style="height=20px; width=20px;" src="https://random-octocat.herokuapp.com" alt="Octocat!" />
+> # A Random Octocat for you  
+  
+ > <img style="height=20px; width=20px;" src="https://random-octocat.herokuapp.com" alt="Octocat!" />
