@@ -1,4 +1,4 @@
-## Hello Welcome to the my Github page
+## Hello, Welcome to the my Github page
   My name is Mehmet Yılmaz. I Was born in Bursa, Turkey. 
   Im student to Bursa Uludag University in Business Managment.   
   I started coding at 13 years old. 
