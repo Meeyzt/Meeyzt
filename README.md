@@ -4,7 +4,7 @@
   I started coding at 13 years old. 
   I now 21 years old.
   
-  I learn .NET CORE with Kodluyoruz.
+  I learning .NET CORE with Kodluyoruz.
   
   ### THAT'S FİNE 
 
