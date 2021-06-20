@@ -10,7 +10,7 @@
 
 > # A Random Octocat for you  
   
-> [<img src='https://octodex.github.com/images/mona-the-rivetertocat.png' alt='github' height='40'>](Octo)
+> [<img src='https://octodex.github.com/images/mona-the-rivetertocat.png' alt='github' height='80'>](Octo)
 
 > # Contact Me
 [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='github' height='40'>](https://www.linkedin.com/in/mehmet-y%C4%B1lmaz-72a95011a/)
