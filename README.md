@@ -10,7 +10,7 @@
 
 > # A Random Octocat for you  
   
- > <img style="height=20px; width=20px;" src="https://octodex.github.com/mona-the-rivetertocat/" alt="Octocat!" />
+ > <img style="height=20px; width=20px;" src="https://octodex.github.com/images/mona-the-rivetertocat.png" alt="Octocat!" />
 
 > # Contact Me
-<img style="heigh=20px; width=20px;" href="https://www.linkedin.com/in/mehmet-y%C4%B1lmaz-72a95011a/" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linked-in"/>
+<img style="heigh=5px; width=5px;" href="https://www.linkedin.com/in/mehmet-y%C4%B1lmaz-72a95011a/" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linked-in"/>
