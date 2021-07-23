@@ -1,8 +1,5 @@
 ## Hello, Welcome to the my Github page
-  My name is Mehmet Yılmaz. I was born in Bursa, Turkey. 
-  Im student to Bursa Uludag University in Business Managment.   
-  I started coding at 13 years old. 
-  I now 21 years old.
+I've been interested in coding since I was 13 years old. I use different methods to develop myself, one of them is Kodluyoruz. Learning new things always excite to me. I believe in people are developing by asking questions so i'm not being shy when i'm asking questions. And i love helping people in their issues.
   
   I learning .NET CORE with Kodluyoruz.
   
