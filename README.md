@@ -1,9 +1,5 @@
 ## Hello, Welcome to the my Github page
 I've been interested in coding since I was 13 years old. I use different methods to develop myself, one of them is Kodluyoruz. Learning new things always excite to me. I believe in people are developing by asking questions so i'm not being shy when i'm asking questions. And i love helping people in their issues.
-  
-  I learning .NET CORE with Kodluyoruz.
-  
-  ### THAT'S FİNE 
 
 > # A Octocat for you  
   
