@@ -11,3 +11,4 @@ I've been interested in coding since I was 13 years old. I use different methods
 
 > # Contact Me
 [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='github' height='40'>](https://www.linkedin.com/in/mehmet-y%C4%B1lmaz-72a95011a/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png' alt='github' height='40'>](mailto:meeyzt@gmail.com)
