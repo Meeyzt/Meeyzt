@@ -6,5 +6,5 @@ I live in Bursa. I've been interested in coding since I was 13 years old. I use 
 > [<img src='https://octodex.github.com/images/boxertocat_octodex.jpg' alt='github' height='160'>](Octo)
 
 > # Contact Me
-[<img src='[https://image.flaticon.com/icons/png/512/174/174857.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)' alt='linkedin' height='40' width='40'>](https://www.linkedin.com/in/mehmet-y%C4%B1lmaz-72a95011a/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='linkedin' height='40' width='40'>](https://www.linkedin.com/in/mehmet-y%C4%B1lmaz-72a95011a/)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png' alt='Gmail' height='40' width='40'>](mailto:meeyzt@gmail.com)
